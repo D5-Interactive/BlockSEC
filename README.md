@@ -1,9 +1,9 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7028090e-4cdb-4852-98f4-a1a3b0a01dee" /># binSEC
 
-**Prism launcher:** [ https://prismlauncher.org/ ]
-**To play,** download the CLIENT **.mrpack** file, install PRISM MODDED LAUNCHER; import the .mrpack - input the IP into the address section when "Adding server" in the multiplayer menu.
-6-8GB ram dedicated minimum.
+- **Prism launcher:** [ https://prismlauncher.org/ ]
 
+- **To play,** download the CLIENT **.mrpack** file, install PRISM MODDED LAUNCHER; import the .mrpack - input the IP into the address section when "Adding server" in the multiplayer menu.
+6-8GB ram dedicated minimum.
 
 
 ## Performance Recommendations
